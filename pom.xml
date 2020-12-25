@@ -102,8 +102,11 @@
         </dependency>
         <dependency>
             <groupId>org.apache.cxf</groupId>
-            <artifactId>cxf-spring-boot-starter-jaxws</artifactId>
-            <version>3.4.0</version>
+            <artifactId>cxf-spring-boot-starter-jaxws</artifactId><<<<<<< snykupgrade-9e4482412882b5cad70362f0ff360bde
+            <versi> 3.4.1 </ versi >
+=======git fetch origin 
+git checkout -b snyk-upgrade-9e4482412882b5cad70362f0ff360bde origin / snyk-upgrade-9e4482412882b5cad70362f0ff360bde 
+git mermastmamaster
         </dependency>
         <dependency>
             <groupId>org.hibernate</groupId>
