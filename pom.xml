@@ -102,8 +102,11 @@
         </dependency>
         <dependency>
             <groupId>org.apache.cxf</groupId>
-            <artifactId>cxf-spring-boot-starter-jaxws</artifactId>
-            <version>3.4.1</version>
+            <artifactId>cxf-spring-boot-starter-jaxws</artifactId><<<<<<< snykupgrade-9e4482412882b5cad70362f0ff360bde
+            <versi> 3.4.1 </ versi >
+=======git fetch origin 
+git checkout -b snyk-upgrade-9e4482412882b5cad70362f0ff360bde origin / snyk-upgrade-9e4482412882b5cad70362f0ff360bde 
+git mermastmamaster
         </dependency>
         <dependency>
             <groupId>org.hibernate</groupId>
@@ -123,7 +126,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.6</version>
+            <version>2.8.0</version>
         </dependency>
         <dependency>
             <groupId>com.zaxxer</groupId>
@@ -145,7 +148,7 @@
         <dependency>
             <groupId>org.apache.xbean</groupId>
             <artifactId>xbean-spring</artifactId>
-            <version>4.8</version>
+            <version>4.18</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
